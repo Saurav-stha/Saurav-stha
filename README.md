@@ -9,9 +9,11 @@
 
 - 🌱 I’m currently learning **Django**
 
+- 👨‍💻 All of my projects are available at https://github.com/Saurav-stha?tab=repositories
+
 - 💬 Ask me about **Python, PHP**
 
-- 📫 How to reach me **shresthsaurav8@gmail.com**
+- 📫 How to reach me **shresthsaurav8@gmail.com, https://www.linkedin.com/in/saurav-shrestha-097736208/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
