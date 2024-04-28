@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saurav-stha&label=Profile%20views&color=0e75b6&style=flat" alt="saurav-stha" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saurav-stha" alt="saurav-stha" /></a> </p>
+<img align="right" alt="Coding GIF" width="400" src="https://64.media.tumblr.com/d9ba01e37d6d828041b316d1ab716146/e45d5ed82ed0b527-6f/s640x960/7c3a61067f54e3bd7134b8f86494589cf60134be.gif">
 
 - 🔭 I’m currently working on [Digital Kirana website](https://github.com/Saurav-stha/DigitalKirana/tree/main)
 
@@ -26,3 +26,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saurav-stha&show_icons=true&locale=en" alt="saurav-stha" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saurav-stha&theme=dark" alt="saurav-stha" /></p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saurav-stha" alt="saurav-stha" /></a> </p>
+
