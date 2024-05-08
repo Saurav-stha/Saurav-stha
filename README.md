@@ -9,7 +9,7 @@
 
 - 😎 Completed Projects: [Digital Kirana website](https://github.com/Saurav-stha/DigitalKirana/tree/main)
 
-- 🌱 I’m currently learning **Django**
+- 🌱 I’m currently learning **Django** & **Laravel**
 
 - 👨‍💻 All of my projects are available at https://github.com/Saurav-stha?tab=repositories
 
