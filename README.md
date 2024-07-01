@@ -10,7 +10,7 @@
 - 😎 Completed Projects: [Digital Kirana website](https://github.com/Saurav-stha/DigitalKirana/tree/main) ,
                           [DjangoDis](https://github.com/saurav-stha/djangoDis)
 
-- 🌱 I’m currently learning **Django**, **Node.js**
+- 🌱 I’m currently learning **Django**
 
 - 👨‍💻 All of my projects are available at https://github.com/Saurav-stha?tab=repositories
 
