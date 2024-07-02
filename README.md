@@ -5,12 +5,13 @@
 
 <img align="right" alt="Coding GIF" width="400" src="https://64.media.tumblr.com/d9ba01e37d6d828041b316d1ab716146/e45d5ed82ed0b527-6f/s640x960/7c3a61067f54e3bd7134b8f86494589cf60134be.gif">
 
-- 🔭 I’m currently working on [Making Ecomm using Django ](https://github.com/Saurav-stha/django-ecomm)
+- 🔭 I’m currently working on [Making Ecomm using Django ](https://github.com/Saurav-stha/django-ecomm),
+                              [Task Manager using Node ](https://github.com/Saurav-stha/task_mngr)
 
 - 😎 Completed Projects: [Digital Kirana website](https://github.com/Saurav-stha/DigitalKirana/tree/main) ,
                           [DjangoDis](https://github.com/saurav-stha/djangoDis)
 
-- 🌱 I’m currently learning **Django**
+- 🌱 I’m currently learning **Django**, **Node**
 
 - 👨‍💻 All of my projects are available at https://github.com/Saurav-stha?tab=repositories
 
