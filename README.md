@@ -7,9 +7,9 @@
 
 - 🔭 I’m currently working on [Making Ecomm using Django ](https://github.com/Saurav-stha/django-ecomm), [Colorblind Test](https://github.com/Saurav-stha/eye_test)
 
-- 😎 Completed Projects: [Digital Kirana website](https://github.com/Saurav-stha/DigitalKirana/tree/main) ,
+- 😎 Completed Projects: [Digital Kirana](https://github.com/Saurav-stha/DigitalKirana/tree/main) ,
                           [DjangoDis](https://github.com/saurav-stha/djangoDis),
-  [Task Manager using Node ](https://github.com/Saurav-stha/task_mngr)
+  [Task Manager](https://github.com/Saurav-stha/task_mngr)
 
 - 🌱 I’m currently learning **Django**, **Node**
 
