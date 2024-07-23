@@ -5,7 +5,7 @@
 
 <img align="right" alt="Coding GIF" width="400" src="https://64.media.tumblr.com/d9ba01e37d6d828041b316d1ab716146/e45d5ed82ed0b527-6f/s640x960/7c3a61067f54e3bd7134b8f86494589cf60134be.gif">
 
-- 🔭 I’m currently working on [Ecomm](https://github.com/Saurav-stha/django-ecomm), [Colorblind Test](https://github.com/Saurav-stha/eye_test)
+- 🔭 I’m currently working on [Ecomm](https://github.com/Saurav-stha/django-ecomm), [Colorblind Test]([https://github.com/Saurav-stha/eye_test](https://github.com/Saurav-stha/colorblind_test))
 
 - 😎 Completed Projects: [Digital Kirana](https://github.com/Saurav-stha/DigitalKirana/tree/main) ,
                           [DjangoDis](https://github.com/saurav-stha/djangoDis),
