@@ -17,13 +17,13 @@
   
   
 
-- 🌱 I’m currently learning **Django**, **Node**,**Laravel**
+- 🌱 I’m currently learning **Django**, **Node**, **Laravel**
 
 - 👨‍💻 All of my projects are available at https://github.com/Saurav-stha?tab=repositories
 
 - 💬 Ask me about **Python, PHP**
 
-- 📫 How to reach me **shresthsaurav8@gmail.com, https://www.linkedin.com/in/saurav-shrestha-097736208/**
+- 📫 How to reach me **shresthsaurav8@gmail.com**, [Linkedin](https://www.linkedin.com/in/saurav-shrestha-19261b369/)
 
 - ⚙️ **Portfolio** Website **https://saurav-stha.github.io/portfolio/**
 
