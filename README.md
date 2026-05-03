@@ -5,12 +5,16 @@
 
 <img align="right" alt="Coding GIF" width="400" src="https://64.media.tumblr.com/d9ba01e37d6d828041b316d1ab716146/e45d5ed82ed0b527-6f/s640x960/7c3a61067f54e3bd7134b8f86494589cf60134be.gif">
 
-- 🔭 I’m currently working on [Tgway](https://github.com/two-Ace/himalayanbe/)
+- 🔭 I’m currently working on [Chanco](https://chanco.codex.com.np/)
 
-- 😎 Completed Projects: [Digital Kirana](https://github.com/Saurav-stha/DigitalKirana/tree/main) ,
-                          [DjangoDis](https://github.com/saurav-stha/djangoDis),
-  [Task Manager](https://github.com/Saurav-stha/task_mngr),
-  [ColorBlind Test](https://connectingworld.com.np/),
+- 😎 Completed Projects: 
+  [Roots Story](https://rootsstory.com/) ,
+  [Mountain Children Home](https://mountainchildrenhome.org.np/),
+  [Sajilo Chords](https://sajilochords.com/),
+  [Deego Trails](https://deegotrails.org/),
+  [Asia Oriental](https://asiaorientalsupermarket.com/),
+  [Award International](https://awardinternational.edu.np/)
+  
   
 
 - 🌱 I’m currently learning **Django**, **Node**,**Laravel**
